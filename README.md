@@ -12,7 +12,7 @@ Toy Robot can be placed and moved on table top a 5 x 5 unit grid. The toy robot 
 
 ## Toy Robot Commands
 
-The commands that can be issued to the robot on the command prompt after the toy robot application is running.
+The commands that can be issued to the robot on the command prompt after the toy robot application is running. Only in console mode.
 
 ### PLACE X,Y,FACING
 Puts the toy robot on the table in position X,Y and facing NORTH, SOUTH, EAST or WEST.
