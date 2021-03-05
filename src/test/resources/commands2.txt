@@ -1,0 +1,14 @@
+place 2,3,WEST
+move
+left
+move
+report
+place 5,1,EAST
+move
+right
+report
+place 4, 2, NORTH
+move
+move
+right
+report

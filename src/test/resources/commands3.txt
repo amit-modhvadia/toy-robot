@@ -1,0 +1,17 @@
+place 3,5,SOUTH
+move
+move
+right
+move
+report
+move
+left
+right
+right
+move
+report
+place 2,1, EAST
+move
+move
+left
+report
